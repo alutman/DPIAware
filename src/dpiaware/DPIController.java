@@ -36,7 +36,7 @@ public class DPIController {
      * Get the system's reported DPI
      * @return system DPI
      */
-    public static int getDpi() {
+    public static int getDPI() {
         return DPI;
     }
 
